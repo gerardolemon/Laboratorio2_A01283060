@@ -2,6 +2,15 @@
 p {color:blue; 
     text-align:justify;
     font-size: 15px;
+    font-family: "Times New Roman";
     }
 body {background-color:coral;}
-imagen {border-radius:8px;}
+
+img {border-radius:50%;
+    border-color:black;
+    opacity:0.8;}
+
+h1 {font-weight:italic;
+    text-decoration:underline red;
+
+}
